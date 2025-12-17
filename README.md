@@ -1,2 +1,1 @@
-# Eprojects
-Electronics Projects Overview
+Electronics Projects created over highschool
